@@ -1,0 +1,14 @@
+[package]
+name = "unisocket"
+version = "0.1.0"
+authors = ["XenoCorn"]
+description = "Unified types for TCP & Unix sockets"
+repository = "https://github.com/xenocorn/unisocket"
+categories = ["network-programming"]
+keywords = ["tcp", "unix", "socket"]
+readme = "README.md"
+license = "MIT"
+edition = "2018"
+
+[lib]
+    path = "lib.rs"
