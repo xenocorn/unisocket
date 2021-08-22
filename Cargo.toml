@@ -1,6 +1,6 @@
 [package]
 name = "unisocket"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["XenoCorn"]
 description = "Unified types for TCP & Unix sockets"
 repository = "https://github.com/xenocorn/unisocket"
